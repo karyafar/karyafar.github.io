@@ -12,6 +12,11 @@ Before Etsy, I was doing a Ph.D. in computer science and machine learning, build
 
 ### Recent Talks:
 
+- **Open Data Science Conference**
+- **University of Alabama Analytics**
+- **MIT retail analytics conference**
+- **Solr conference**
+- **Salt Lake City Data Science Meetup**
 - **AI World Forum Disrupt: How can your business use AI and what are the best practices?** [Details](https://www.worldforumdisrupt.com/ai-san-francisco-2018/speaker/kamelia-aryafar/)
 
 
