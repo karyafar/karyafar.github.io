@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I am Kamelia Aryafar, Vice President, Head of Data Science, Machine Learning and AI at Overstock.com Inc., an online retailer. I lead the core machine learning, data science, marketing data science and personalization teams focused on building scalable machine learning, natural language processing, deep learning and computer vision tools to curate a personalized experience for Overstock users. 
+Hi!I lead the core Engineering, AI (including Gen AI), machine learning, data science, and product teams focused on building scalable machine learning, NLP, deep learning and computer vision models for a variety of use cases such as retrieval/ranking/recommendations/personalization/agentic AI productivity tools and more.  
 
-Prior to Overstock I have been a Senior Machine Learning and Data Scientist at Etsy Inc., an e-commerce platform for handmade and vintage goods for more than four years.
+My general areas of interest is everything related to AI in production. This includes Gen AI and deep learning but not necessarily limited to. 
 
-Before Etsy, I was doing a Ph.D. in computer science and machine learning, building large-scale classification and information retrieval models. 
+[Archived]
 
 ### Recent Talks:
 
