@@ -8,8 +8,7 @@ Hi!I lead the core Engineering, AI (including Gen AI), machine learning, data sc
 
 My general areas of interest is everything related to AI in production. This includes Gen AI and deep learning but not necessarily limited to. 
 
-[Archived]
-
+### Archived:
 ### Recent Talks:
 
 - **AI World Forum Disrupt: How can your business use AI and what are the best practices?** [Details](https://www.worldforumdisrupt.com/ai-san-francisco-2018/speaker/kamelia-aryafar/)
